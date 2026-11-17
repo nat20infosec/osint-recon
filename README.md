@@ -2,7 +2,7 @@
 
 A [Claude Code](https://claude.com/claude-code) skill for passive, public-source security recon on a vendor, product, domain, or your own organization's footprint. Produces a graded, sourced **OSINT Intelligence Brief** — not a verdict, but the evidence a security or platform review needs to start from.
 
-> Also available via the [nat20infosec Claude Code marketplace](https://github.com/nat20infosec/skills) — `/plugin marketplace add nat20infosec/skills` then `/plugin install osint-recon@nat20infosec` — if you want this alongside other nat20infosec skills and one-command updates.
+> **This repo has moved.** The `osint-recon` skill now lives and gets updates at [nat20infosec/skills](https://github.com/nat20infosec/skills) — `/plugin marketplace add nat20infosec/skills` then `/plugin install osint-recon@nat20infosec`. This repo is archived and kept for reference only.
 
 Security/technical scope only — not financial, legal, or sanctions due diligence, and not a people-search tool. See [SKILL.md](SKILL.md) for the full scope, guardrails, and output format.
 
